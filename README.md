@@ -81,7 +81,7 @@ float humidity=0;
 DHT dht(out,DHT11);
 #include"ThingSpeak.h"
 #include<WiFi.h>
-char ssid[]="Tej";
+char ssid[]="Janani";
 char pass[]="123456789";
 WiFiClient client;
 unsigned long myChannelField=3091113;
